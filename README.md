@@ -4,7 +4,7 @@
 
 **AI Software Engineer | Agentic AI · Voice Agents · LLM Systems**
 
-[LinkedIn](https://www.linkedin.com/in/bhawankumarch/) · [Atimuss](https://www.atimuss.com/) · [ApplyLoom](https://applyloom.atimuss.com/)
+[Email](mailto:bhawankumarch@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhawankumarch/) · [Atimuss](https://www.atimuss.com/) · [ApplyLoom](https://applyloom.atimuss.com/)
 
 </div>
 
@@ -24,6 +24,11 @@ I enjoy owning the complete path from prototype to production, especially when t
 ---
 
 ### Work
+
+#### Clariva AI LLC
+*Current*
+
+Working on AI-enabled customer engagement products, backend services, APIs, and production-oriented workflows.
 
 #### ASU Edson College of Nursing
 *Software Development Engineer · Sep 2024 to May 2026*
