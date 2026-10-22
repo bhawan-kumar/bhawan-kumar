@@ -16,7 +16,6 @@ I enjoy owning the complete path from prototype to production, especially when t
 
 ### Highlights
 
-- Built agentic document intelligence and conversational retrieval systems with an emphasis on traceable answers, evaluation, and observability.
 - Developed real-time voice AI experiences, including systems with sub-300ms responses.
 - Built **ApplyLoom**, an AI-powered job-search copilot used by **1,000+ people**.
 - Built **POP**, the **Village Hacks 2026 UcheNova Track winner**, with belief-driven workflow assistance and guided computer interaction.
@@ -25,11 +24,6 @@ I enjoy owning the complete path from prototype to production, especially when t
 ---
 
 ### Work
-
-#### Zscaler
-*AI engineering, document intelligence*
-
-Worked on multi-agent document intelligence and conversational AI. Focused on retrieval quality, reranking, structured tool use, guardrails, and evidence-backed responses, with evaluation and observability built into the workflow.
 
 #### ASU Edson College of Nursing
 *Software Development Engineer · Sep 2024 to May 2026*
